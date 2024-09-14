@@ -43,15 +43,15 @@ Examen de Git
 - ¿Qué comando o comandos usaste en el punto 33?
   git reset --hard 21b7224
 
--Comandos de los tags
+- Comandos de los tags
 git tag inicial c5e38f1
 git tag styled 35936f8
 git tag htmlify baa9809
 git tag title 7302d92
 
--Comando para subir ramas
+- Comando para subir ramas
 git push --all origin
 
--Comando para subir tags
+- Comando para subir tags
 git push --tags origin
 
