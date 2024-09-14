@@ -58,20 +58,23 @@ Examen de Git
 
 - Comandos de los tags
   
-git tag inicial c5e38f1
-git tag styled 35936f8
-git tag htmlify baa9809
-git tag title 7302d92
+  git tag inicial c5e38f1
+  
+  git tag styled 35936f8
+  
+  git tag htmlify baa9809
+  
+  git tag title 7302d92
 
 - Comando para subir ramas
   
-git push --all origin
+  git push --all origin
 
 - Comando para subir tags
   
-git push --tags origin
+  git push --tags origin
 
 -Comando para crear y moverse a una rama
 
-git checkout -b <nombre de la rama nueva>
+  git checkout -b <nombre de la rama nueva>
 
