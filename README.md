@@ -3,12 +3,15 @@ Examen de Git
 
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
+- 
   git reset --hard HEAD~1. Se pedia perder los cambios del working copy
   
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+  
   git reflog, git reset --hard 35936f8. Primero miro el historil y busco a la posición que me quiero mover. Copio y pego el hash en el git reset --hard <hash del commint>
   
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
+  
   git merge main. No genera conflicto debido a que no se solapan los cambios producidos
   
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
