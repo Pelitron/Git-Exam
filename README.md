@@ -74,7 +74,7 @@ Examen de Git
   
   git push --tags origin
 
--Comando para crear y moverse a una rama
+- Comando para crear y moverse a una rama
 
   git checkout -b <nombre de la rama nueva>
 
